@@ -27,3 +27,4 @@ Prerequisites:
 Python 3.x
 Flask
 Required Python libraries (e.g., summarization library, NLP models)
+In addition: python -m spacy download en_core_web_sm [download this separately after the installation of the requirements.txt]
