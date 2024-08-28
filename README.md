@@ -23,7 +23,7 @@ Summarization algorithm (integrated library or custom implementation)
 Optional: Transformer-based models or other state-of-the-art NLP techniques
 
 # Installation
-# Prerequisites
+Prerequisites
 Python 3.x
 Flask
 Required Python libraries (e.g., summarization library, NLP models)
